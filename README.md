@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Prashant Gupta
-**Aspiring Full Stack Developer || MERN Stack || Data Analysis**
+**Aspiring Full Stack Developer with a interest in Data Analysis**
 
 Email Me 👉 ✉️ **prashantgupta2914@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
