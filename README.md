@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **prashantgupta2914@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** SAAS Web Application
-- 🌱 **I’m currently learning:** Data Science
+- 🌱 **I’m currently learning:** Generative AI
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iprashantguptaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-gupta-26336033b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashantgupta2914@gmail.com) 
