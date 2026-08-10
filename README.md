@@ -1,7 +1,8 @@
 # 💫 Hi 👋, I'm Prashant Gupta
 **🚀 Aspiring Full-Stack Developer | Building scalable web applications with Java & MERN | Exploring LLMs, AI Agents, and Generative AI**
 
-Email Me 👉 ✉️ **prashantgupta2914@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email :  **prashantgupta2914@gmail.com**
+Portfolio : **prashantcodes.vercel.app**
 
 - 🔭 **I’m currently working on:** SAAS Web Application
 - 🌱 **I’m currently learning:** Generative AI
